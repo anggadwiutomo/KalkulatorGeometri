@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KalkulatorGeometryUts</string>
+    <string-array name="Bentuk">
+        <item>Persegi Panjang</item>
+        <item>Lingkaran</item>
+        <item>Segitiga Siku -Siku</item>
+    </string-array>
+</resources>
